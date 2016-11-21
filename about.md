@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-This blog is demo blog for [Kiko Plus](https://github.com/AWEEKJ/Kiko-plus)
+<!-- This blog is demo blog for [Kiko Plus](https://github.com/AWEEKJ/Kiko-plus)
 
 This theme is inspired by [Kiko](http://github.com/gfjaru/Kiko) theme, powered by [Jekyll](http://jekyllrb.com), hosted on [Github Pages](https://pages.github.com).
 
@@ -101,4 +101,6 @@ $ rake preview
 
 ## License
 
-This theme is released under MIT License.
+This theme is released under MIT License. -->
+
+Hi, My name is Aden Seeley. I am a studio portrait photographer working primarily with film photography from the Rochester area. I have been photographing for close to seven years. I have been trained at school, as well as being mostly a self taught photographer. I strive as a photographer to work with the human form, connecting with the person to find who they are as opposed to photographing just their outer layers of skin. Beginning to work in the performing arts and dance fields, I’ve worked primarily with performance ballet dancers to capture the grace and movement of their art in order to create something truly beautiful. Working with the ballerinas that I have has allowed me to fully understand where I want to be in the field of photography, and has allowed me to transfer the grace and fast paced movements to influence my photography elsewhere in personal and client work.
